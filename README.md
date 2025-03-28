@@ -1,7 +1,6 @@
-# UnityTemplateRepository
-Unity Project template Repository
+# Addressable Asset System Test
 
-# Demo
+UnityのAddressable Asset Systemを使ったテストプロジェクトです。
 
 # requirements
-* Unity 2022.2.0f1
+* Unity 6000.0.43f1
