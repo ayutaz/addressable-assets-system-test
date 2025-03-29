@@ -30,7 +30,8 @@ MonoBehaviour:
             _name:
               _value: Default Asset Group
             _filters:
-              _internalList: []
+              _internalList:
+              - rid: 7910818605360218112
           - _id: e8110015-cbed-4568-82e6-0bcd717dda93
             _name:
               _value: default
@@ -52,3 +53,12 @@ MonoBehaviour:
         _replaceWithRegex: 0
         _pattern: 
         _replacement: 
+    - rid: 7910818605360218112
+      type: {class: ObjectBasedAssetFilter, ns: SmartAddresser.Editor.Core.Models.Shared.AssetGroups.AssetFilterImpl, asm: SmartAddresser.Editor}
+      data:
+        _id: 3dae3324-d177-4e11-a3cf-1d4beb9b47c8
+        _folderTargetingMode: 0
+        _object:
+          _isListMode: 0
+          _values:
+          - {fileID: 102900000, guid: 3c1ec8a30ba93c541964c38f7ba38d7d, type: 3}
